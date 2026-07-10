@@ -1,4 +1,4 @@
-## Hi Rauki34 here 👋
+## Hi there,I'm rauki34 here 👋
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello%20I'm%20rauki34&fontSize=40" width="100%"/>
 </p>
@@ -9,11 +9,9 @@
 
 ## 🎯 技术栈
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-<img src="https://img.shields.io/badge/Git-FF4F8B?style=flat-square&logo=git&logoColor=white"/>
+![Git]("https://img.shields.io/badge/Git-FF4F8B?style=flat-square&logo=git&logoColor=white")
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 </p>
 
@@ -31,8 +29,11 @@
 
 
 ## 📫 联系方式
-<a href="mailto:3106587650@qq.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-- 邮箱：3106587650@qq.com.
+<p align="center">
+<a href="mailto:3106587650@qq.com">
+  <img src="https://img.shields.io/badge/QQ邮箱-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
+</a>
+</p>
 
 <p align="center">访客：<img src="https://komarev.com/ghpvc/?username=rauki34&color=00ccff"/></p>
 
