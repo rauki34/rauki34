@@ -14,19 +14,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-## 📊 GitHub数据
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=rauki34&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauki34&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rauki34&theme=tokyonight"/>
-</p>
-
-## 📈 近31天贡献
-
-
 ## 📫 联系方式
 <p align="center">
 <a href="mailto:3106587650@qq.com">
