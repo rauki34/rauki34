@@ -15,13 +15,9 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 ## 📫 联系方式
-<p align="center">
 <a href="mailto:3106587650@qq.com">
   <img src="https://img.shields.io/badge/QQ邮箱-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white" />
 </a>
-</p>
-
-<p align="center">访客：<img src="https://komarev.com/ghpvc/?username=rauki34&color=00ccff"/></p>
 
 <!--
 **rauki34/rauki34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
