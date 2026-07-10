@@ -11,7 +11,7 @@
 <p align="center">
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git]("https://img.shields.io/badge/Git-FF4F8B?style=flat-square&logo=git&logoColor=white")
+![Git](https://img.shields.io/badge/Git-FF4F8B?style=flat-square&logo=git&logoColor=white)
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 </p>
 
